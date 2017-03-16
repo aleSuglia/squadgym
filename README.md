@@ -1,4 +1,4 @@
-#SQuAD-Gym
+# SQuAD-Gym
 
 ## Introduction
 
@@ -33,7 +33,7 @@ In this way the script will generate a pickle file which will contain all the da
 
 ## Future work
 
-This project represents a background on which it is able to evaluate artificial in order to answer the following question: 
+This project represents a playground for artificial agents through which it will be possible to find an answer to the following question: 
 > Is it possible to develop artificial agents able to answer open-domain questions which require different capabilities (e.g. ability to see, ability to hear, etc.)?
 
 At the moment, the most important aspects that should be designed are reported in the following list:
@@ -42,7 +42,7 @@ At the moment, the most important aspects that should be designed are reported i
  2. Design a possible *curriculum learning* strategy according to which the agent receives questions of increasing complexity while it plays the game;
  3. Design a *multi-modal* game: the agent should be able to answer question regarding textual data, images, songs or videos (like in the Italian game [Rischiatutto](http://www.rai.it/programmi/rischiatutto/)).
 
-The following project is a work-in-progress. However, it can be really useful to share it with the community in order to obtain valuable feedback that can be leveraged so as to enhance and improve it. When the environment will be completed, it would be interesting to evaluate different kind of QA models, just like in the  official *SQuAD* challenge. 
+The project is a work-in-progress. However, it can be really useful to share it with the community in order to obtain valuable feedback that can be leveraged so as to enhance and improve it. When the environment will be completed, it would be interesting to evaluate different kind of QA models, just like in the  official *SQuAD* challenge. 
 
 ## Contributions
 
